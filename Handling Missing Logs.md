@@ -26,6 +26,8 @@ So today, I want to share how I manually searched log events in Kafka UI to hand
 ## 🛠️ My Approach
 
 ### 1. Open Kafka UI
+- Choose the cluster
+- Choose the topic
 
 ### 2. Identify the time range
 
